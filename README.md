@@ -1,7 +1,7 @@
 
 # PPO Agent on CartPole-v1 (Colab Notebook)
 
-This is a single Jupyter Notebook that implements and trains a Proximal Policy Optimization (PPO) agent on the `CartPole-v1` environment using PyTorch and Gym. It also renders the trained agent and displays a video of its performance directly inside the notebook.
+This Jupyter Notebook offers a complete, beginner-friendly walkthrough of training a reinforcement learning agent using the Proximal Policy Optimization (PPO) algorithm in PyTorch. It demonstrates how an agent can learn to solve the classic CartPole-v1 environment from the Gym library. The notebook not only includes the full training pipeline but also renders the agent’s performance and displays it as an animated video, making it easy to understand and visualize the results—even for those new to reinforcement learning.
 
 ## 📌 Features
 
